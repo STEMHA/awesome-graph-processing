@@ -48,6 +48,8 @@ A collection of awesome papers about graph processing.
 - **Pregelix** - `Pregelix: Big(ger) Graph Analytics on A Dataflow Engine` (VLDB'15). [[paper]](http://www.vldb.org/pvldb/vol8/p161-bu.pdf), [[code]](https://github.com/pregelix/pregelix)
 - **TurboGraph++** - `TurboGraph++: A Scalable and Fast Graph Analytics System` (SIGMOD'18). [[paper]](https://dl.acm.org/citation.cfm?doid=3183713.3196915)
 - **GraphD** - `GraphD: Distributed Vertex-Centric Graph Processing Beyond the Memory Limit` (TPDS'18). [[paper]](https://ieeexplore.ieee.org/document/8016377), [[code]](https://github.com/yaobaiwei/GraphD)
+- **GraphH** - `GraphH: High Performance Big Graph Analytics in Small Clusters` (CLUSTER'17). [[paper]](https://ieeexplore.ieee.org/document/8048937), [[code]](https://github.com/cap-ntu/Graphee)
+
 ### dynamic graph system
 - **Stinger** - `STINGER: High performance data structure for streaming graphs` (HPEC'2012). [[paper]](https://ieeexplore.ieee.org/abstract/document/6408680), [[code]](http://www.stingergraph.com/)
 ### Embedding, Representation Learning, and Deep Learning on Graphs
