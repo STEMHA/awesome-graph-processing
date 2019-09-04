@@ -26,7 +26,7 @@ A collection of awesome papers about graph processing.
 - **PowerSwith** - `SYNC or ASYNC: Time to Fuse for Distributed Graph-Parallel Computation` (PPoPP'15). [[paper]](https://ipads.se.sjtu.edu.cn/\_media/publications/powerswitch-ppopp15.pdf)
 - **Gemini** - `Gemini: A Computation-Centric Distributed Graph Processing System` (OSDI'16). [[paper]](https://www.usenix.org/system/files/conference/osdi16/osdi16-zhu.pdf), [[code]](https://github.com/thu-pacman/GeminiGraph)
 - **GRAPE** - `Parallelizing Sequential Graph Computations` (SIGMOD'17). [[paper]](http://homepages.inf.ed.ac.uk/wenfei/papers/sigmod17-GRAPE.pdf)
-
+- **GrapH** - `GrapH: Traffic-Aware Graph Processing` (TPDS'18). [[paper]](https://ieeexplore.ieee.org/abstract/document/8263157), [[code]](https://github.com/mayercn/GrapH2.0)
 ### Single & Storage
 - **GraphChi** - `GraphChi: Large-Scale Graph Computation on Just a PC` (OSDI'12). [[paper]](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-126.pdf), [[code]](https://github.com/GraphChi/graphchi-cpp)
 - **X-Stream** - `X-Stream: Edge-centric Graph Processing using Streaming Partitions` (SOSP'13). [[paper]](https://infoscience.epfl.ch/record/188535/files/paper.pdf), [[code]](https://github.com/epfl-labos/x-stream)
