@@ -46,10 +46,10 @@ A collection of awesome papers about graph processing.
 ### Distributed & Storage
 - **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244\_2017\_2018/papers/roy\_sosp\_2015.pdf), [[code]](https://github.com/epfl-labos/chaos)
 - **Pregelix** - `Pregelix: Big(ger) Graph Analytics on A Dataflow Engine` (VLDB'15). [[paper]](http://www.vldb.org/pvldb/vol8/p161-bu.pdf), [[code]](https://github.com/pregelix/pregelix)
-- **HGraph** - `Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing` (SIGMOD '16). [[paper]](https://dl.acm.org/citation.cfm?id=2882938), [[code]](https://github.com/HybridGraph/HGraph)(Java)
-- **GraphH** - `GraphH: High Performance Big Graph Analytics in Small Clusters` (CLUSTER'17). [[paper]](https://ieeexplore.ieee.org/document/8048937), [[code]](https://github.com/cap-ntu/Graphee)(C++)
+- **HGraph** - `Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing` (SIGMOD '16). [[paper]](https://dl.acm.org/citation.cfm?id=2882938), [[code]](https://github.com/HybridGraph/HGraph),(Java)
+- **GraphH** - `GraphH: High Performance Big Graph Analytics in Small Clusters` (CLUSTER'17). [[paper]](https://ieeexplore.ieee.org/document/8048937), [[code]](https://github.com/cap-ntu/Graphee),(C++)
 - **TurboGraph++** - `TurboGraph++: A Scalable and Fast Graph Analytics System` (SIGMOD'18). [[paper]](https://dl.acm.org/citation.cfm?doid=3183713.3196915)
-- **GraphD** - `GraphD: Distributed Vertex-Centric Graph Processing Beyond the Memory Limit` (TPDS'18). [[paper]](https://ieeexplore.ieee.org/document/8016377), [[code]](https://github.com/yaobaiwei/GraphD)(C++11)
+- **GraphD** - `GraphD: Distributed Vertex-Centric Graph Processing Beyond the Memory Limit` (TPDS'18). [[paper]](https://ieeexplore.ieee.org/document/8016377), [[code]](https://github.com/yaobaiwei/GraphD),(C++11)
 
 ### dynamic graph system
 - **Stinger** - `STINGER: High performance data structure for streaming graphs` (HPEC'2012). [[paper]](https://ieeexplore.ieee.org/abstract/document/6408680), [[code]](http://www.stingergraph.com/)
