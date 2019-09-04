@@ -5,7 +5,7 @@ A collection of awesome papers about graph processing.
 
 ### Single & Memory
 - **GraphLab** - `GraphLab: A New Framework For Parallel Machine Learning` (UAI'10). [[paper]](https://dslpitt.org/papers/10/p340-low.pdf)
-- **Galois** - `A Lightweight Infrastructure for Graph Analytics` (SOSP'13). [[paper]](http://sigops.org/sosp/sosp13/papers/p456-nguyen.pdf)
+- **Galois** - `A Lightweight Infrastructure for Graph Analytics` (SOSP'13). [[paper]](http://sigops.org/sosp/sosp13/papers/p456-nguyen.pdf), [[code]](https://github.com/IntelligentSoftwareSystems/Galois )
 - **GRACE** - `Asynchronous Large-Scale Graph Processing Made Easy` (CIDR'13). [[paper]](http://www.cs.cornell.edu/~guoz/Guozhang%20Wang%20publications/grace\_cidr2013.pdf)
 - **Ligra** - `Ligra: A Lightweight Graph Processing Framework for Shared Memory` (PPoPP'13). [[paper]](https://www.cs.cmu.edu/~jshun/ligra.pdf), [[code]](https://github.com/jshun/ligra)
 - **Polymer** - `NUMA-Aware Graph-Structured Analytics` (PPoPP'15). [[paper]](https://people.csail.mit.edu/jshun/6886-s18/papers/Polymer.pdf), [[code]](https://github.com/realstolz/polymer)
