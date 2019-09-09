@@ -56,7 +56,7 @@ A collection of awesome papers about graph processing.
 ### Survey
 - **Systems for Big Graph Analytics**(Springer Book'2017).[[book]](https://link.springer.com/book/10.1007%2F978-3-319-58217-7)
 - **Big Graph Analytics Systems**(SIGMOD'16).[[paper]](https://dl.acm.org/citation.cfm?id=2912566)
-- **Scalable Graph Processing Frameworks: A Taxonomy and Open Challenges**( ).[[paper]]( )
+- **Scalable Graph Processing Frameworks: A Taxonomy and Open Challenges**(ACM CSUR'2018).[[paper]](https://dl.acm.org/citation.cfm?id=3199523)
 ### Embedding, Representation Learning, and Deep Learning on Graphs
 
 - **graph2vec** - `graph2vec: Learning Distributed Representations of Graphs` ([MLG](http://www.mlgworkshop.org)'17, Held in conjunction with KDD). [[paper]](http://www.mlgworkshop.org/2017/paper/MLG2017_paper_21.pdf), [[arxiv]](https://arxiv.org/abs/1707.05005v1), [[code]](https://github.com/benedekrozemberczki/graph2vec)
