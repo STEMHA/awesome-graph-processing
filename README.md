@@ -54,7 +54,7 @@ A collection of awesome papers about graph processing.
 ### Dynamic graph system
 - **Stinger** - `STINGER: High performance data structure for streaming graphs` (HPEC'2012). [[paper]](https://ieeexplore.ieee.org/abstract/document/6408680), [[code]](http://www.stingergraph.com/)
 ### Survey
--**Systems for Big Graph Analytics**(Springer Book'2017).[[book]](https://link.springer.com/book/10.1007%2F978-3-319-58217-7)
+- **Systems for Big Graph Analytics**(Springer Book'2017).[[book]](https://link.springer.com/book/10.1007%2F978-3-319-58217-7)
 ### Embedding, Representation Learning, and Deep Learning on Graphs
 
 - **graph2vec** - `graph2vec: Learning Distributed Representations of Graphs` ([MLG](http://www.mlgworkshop.org)'17, Held in conjunction with KDD). [[paper]](http://www.mlgworkshop.org/2017/paper/MLG2017_paper_21.pdf), [[arxiv]](https://arxiv.org/abs/1707.05005v1), [[code]](https://github.com/benedekrozemberczki/graph2vec)
