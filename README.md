@@ -93,6 +93,7 @@ A collection of awesome papers about graph processing.
 - [Graph Database Acceleration Survey](https://github.com/Liu-Cheng/graph-database-accel-survey)
 - [Primitives & Graph Processing](https://github.com/RapidsAtHKUST/PrimitivesAndGraphProcessing-GPU)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+- [Graph Processing Collection](https://janzhou.org/learn/graph.html)
 
 ## License
 
